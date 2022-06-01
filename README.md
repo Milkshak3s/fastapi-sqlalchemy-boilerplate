@@ -2,8 +2,13 @@
 A boilerplate repo for a dockerized application running on Python 3.9 FastAPI with SQLAlchemy.
 Includes a sample model and env-based configuration.
 
+## Running
+```
+docker build . --tag boiler:latest
+docker run --publish 127.0.0.1:8000:80/tcp boilerplate:latest
+```
 
-### Files
+## Files
 /
 | File      | Description |
 | ----------- | ----------- |
