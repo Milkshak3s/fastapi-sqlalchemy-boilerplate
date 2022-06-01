@@ -14,7 +14,7 @@ Includes a sample model and env-based configuration.
 /app
 | File      | Description |
 | ----------- | ----------- |
-| __init__.py   | Module init file    |
+| \__init__.py   | Module init file    |
 | crud.py       | Sqlalchemy crud definitions of SQL models  |
 | database.py   | Sqlalchemy database setup |  
 | main.py       | Fastapi routes and app  |
