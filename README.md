@@ -1,6 +1,6 @@
 # fastapi-sqlalchemy-boilerplate
 A boilerplate repo for a dockerized application running on Python 3.9 FastAPI with SQLAlchemy.
-Includes a sample model and env-based configuration.
+Includes a sample model.
 
 ## Running
 ```
