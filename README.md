@@ -5,7 +5,7 @@ Includes a sample model.
 ## Running
 ```
 docker build . --tag boiler:latest
-docker run --publish 127.0.0.1:8000:80/tcp boilerplate:latest
+docker run --publish 127.0.0.1:8000:80/tcp boiler:latest
 ```
 
 ## Files
